@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-# Created by: Remy Skelton5 program will ask the user for two whole
+# Created by: Remy Skelton5 
+# program will ask the user for two whole
 # min and max and will find all the perfect numbers between them
 import math
 
